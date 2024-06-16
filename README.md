@@ -1,3 +1,6 @@
+<img src="portada.png">
+
+
 - 👋 Hola soy la Dra. Araceli García
 - 👀 Estoy interesada en tecnologías emergentes en el ámbito educativo
 - 🌱 I’m currently learning ...
